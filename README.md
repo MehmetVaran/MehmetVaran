@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MehmetVaran .
 - 👀 I’m interested in game development.
-- 🌱 I’m currently learning Unity 2D/3D.
+- 🌱 I’m currently learning Unity 2D/3D and C#.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
